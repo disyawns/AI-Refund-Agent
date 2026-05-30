@@ -33,6 +33,16 @@ The application includes:
 * Pydantic
 
 ---
+# SCREENSHOTS
+
+## Customer Portal
+![Customer Portal](image-1.png)
+
+## Admin Login
+![Admin Login](image-2.png)
+
+## Admin Dashboard
+![Admin Dashboard](image-3.png)
 
 ## Features
 
@@ -360,13 +370,4 @@ Expected Result:
 * Prompt Injection Detected
 * Refund Denied
 
-# SCREENSHOTS
 
-## Customer Portal
-![Customer Portal](image-1.png)
-
-## Admin Login
-![Admin Login](image-2.png)
-
-## Admin Dashboard
-![Admin Dashboard](image-3.png)
