@@ -359,3 +359,10 @@ Expected Result:
 
 * Prompt Injection Detected
 * Refund Denied
+
+# SCREENSHOTS
+![Customer Portal](image-1.png)
+
+![Admin Login](image-2.png)
+
+![Admin Dashboard](image-3.png)
