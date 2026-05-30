@@ -361,8 +361,12 @@ Expected Result:
 * Refund Denied
 
 # SCREENSHOTS
+
+## Customer Portal
 ![Customer Portal](image-1.png)
 
+## Admin Login
 ![Admin Login](image-2.png)
 
+## Admin Dashboard
 ![Admin Dashboard](image-3.png)
