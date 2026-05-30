@@ -118,6 +118,53 @@ http://localhost:8000
 
 ---
 
+## Running with Docker
+
+### Build Containers
+
+```bash
+docker compose build
+```
+
+### Start Application
+
+```bash
+docker compose up
+```
+
+### Run in Background
+
+```bash
+docker compose up -d
+```
+
+### Stop Containers
+
+```bash
+docker compose down
+```
+
+### Access Application
+
+Frontend:
+
+```txt
+http://localhost:3000
+```
+
+Backend API:
+
+```txt
+http://localhost:8000
+```
+
+Backend Swagger Docs:
+
+```txt
+http://localhost:8000/docs
+```
+
+
 ## Admin Access
 
 Password:
